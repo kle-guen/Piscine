@@ -1,0 +1,32 @@
+0: dim
+1: un
+2: dau
+3: tri
+4: pedwar
+5: pump
+6: chwech
+7: saith
+8: wyth
+9: naw
+10: deg
+11: undeg un
+12: undeg dau
+13: undeg tri
+14: undeg pedwar
+15: undeg pump
+16: undeg chwech
+17: undeg saith
+18: undeg wyth
+19: undeg naw
+20: dauddeg
+30: trideg
+40: pedwardeg
+50: pumdeg
+60: chwedeg
+70: saithdeg
+80: wythdeg
+90: nawdeg
+100: cant
+1000: mil
+1000000: miliwn
+1000000000: biliwn
